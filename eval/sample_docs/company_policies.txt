@@ -1,0 +1,31 @@
+Acme Technologies Employee Handbook and Policies
+
+1. Remote Work Policy
+Employees are eligible for hybrid remote work after completing 3 months of tenure. Employees may work remotely up to 2 days per week with manager approval. Core collaboration hours are 10:00 AM to 4:00 PM EST, during which all team members must be reachable on chat and email.
+
+2. Annual Leave and Sick Time
+All full-time employees receive 20 days of paid annual vacation leave and 10 days of paid sick leave per calendar year. A maximum of 5 unused vacation days may roll over to the next calendar year.
+
+3. Home Office Equipment Stipend
+Full-time employees receive a $500 one-time equipment stipend for home office setup upon hire. This budget is eligible for renewal every 2 years.
+
+4. Health and Wellness Benefits
+Comprehensive health coverage is provided through the Apex Health Premier plan, which includes medical, dental, and vision care. Acme Technologies covers 80% of the employee premium costs.
+
+5. Business Travel and Expense Reimbursement
+Business travel requires pre-approval. Meals during business travel are capped at $75 per day. Standard hotel accommodation is capped at $200 per night. Itemized receipts are strictly required for any individual expense above $25.
+
+6. Probationary Period
+All new full-time hires undergo a standard probationary period of 90 days. A formal check-in is conducted at 30 days, followed by a final evaluation at 90 days.
+
+7. Performance Reviews and Merit Increases
+Performance evaluations are held biannually in June and December. Any approved merit salary adjustments take effect at the start of the following quarter.
+
+8. Employee Referral Bonus Program
+Acme offers an employee referral bonus of $2,500 for successfully hiring a senior engineering role, and $1,500 for all other full-time roles. The bonus is disbursed after the referred hire completes 90 days of employment.
+
+9. Resignation and Notice Period
+The standard notice period for voluntary resignation is 2 weeks. Director and executive level positions require a minimum notice period of 4 weeks.
+
+10. Learning and Professional Development
+Each full-time team member is allocated an annual learning and development stipend of $1,000 to cover professional conferences, books, and technical certifications.
